@@ -1,8 +1,8 @@
-# AirCrackDdoS                            #
-#               AirCrackDdos              # 
-#       ?????????Createdby :R00TD4nZ      #
-#               ----------                #
-#        FIGHTER-CYBER-TEAM-ARMY          #
+# AirCrackDdoS                            
+# AirCrackDdos              
+# ?????????Createdby :R00TD4nZ      
+# ----------                
+# FIGHTER-CYBER-TEAM-ARMY          
 
 #install
 $git clone https://github.com/R00TD4nZ/AirCrackDdos
