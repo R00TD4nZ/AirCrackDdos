@@ -32,4 +32,4 @@ ddos hanyalah sebagian kecil dan sangat kecil dari dunia hacking
 INGAT!! JANGAN MELAKUKAN SERANGAN DOS/DDOS TANPA MENGGUNAKAN JARINGAN WIFI!!!!
 
 # salam newbie
-FIGHTER-CYBER-TEAM-ARMY
+# Cr45h Fighter Team
