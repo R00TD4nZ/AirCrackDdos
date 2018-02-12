@@ -1,8 +1,6 @@
 # -----------------------
 # AirCrackDDoS
 # -----------------------
-# Createby :R00TD4nZ      
-# -----------------------
 
 # cara install
 # $git clone https://github.com/R00TD4nZ/AirCrackDdos
@@ -33,3 +31,4 @@ INGAT!! JANGAN MELAKUKAN SERANGAN DOS/DDOS TANPA MENGGUNAKAN JARINGAN WIFI!!!!
 
 # salam newbie
 # Cr45h Fighter Team
+# Create : r00t#d4nZ
