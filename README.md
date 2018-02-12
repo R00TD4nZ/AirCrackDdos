@@ -1,11 +1,10 @@
-# AirCrackDdoS                            
-# AirCrackDdos              
-# ?????????Createdby :R00TD4nZ      
 # -----------------------
-# Cr45h Fighter Team
+# AirCrackDDoS
+# -----------------------
+# Createby :R00TD4nZ      
 # -----------------------
 
-# install
+# cara install
 # $git clone https://github.com/R00TD4nZ/AirCrackDdos
 # $cd AirCrackDdos
 # $chmod +x AirCrackDdos.py
@@ -15,7 +14,7 @@
 # Cari web (http) not www
  
 # sudah di install??
-lalu ketikkan:
+# lalu ketikkan:
 # $python2 AirCrackDdos.py
 # $python2 AirCrackDdos.py (http.target.xxx)
  
