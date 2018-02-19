@@ -1,5 +1,4 @@
-# -----------------------
-# AirCrackDDoS
+# DDoS Attack
 # -----------------------
 
 # cara install
