@@ -2,7 +2,7 @@
 
 install
 1. $git clone https://github.com/R00TD4nZ/AirCrackDdos
-2  $cd AirCrackDdos
+2. $cd AirCrackDdos
 3. $chmod +x AirCrackDdos.py
 4. $python2 AirCrackDdos.py
  
