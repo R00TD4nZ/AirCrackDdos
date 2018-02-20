@@ -1,19 +1,18 @@
 # DDoS Attack
-# -----------------------
 
-# cara install
-# $git clone https://github.com/R00TD4nZ/AirCrackDdos
-# $cd AirCrackDdos
-# $chmod +x AirCrackDdos.py
-# $python2 AirCrackDdos.py
-
-# Usage
-# Cari web (http) not www
+cara install
+1. $git clone https://github.com/R00TD4nZ/AirCrackDdos
+2  $cd AirCrackDdos
+3. $chmod +x AirCrackDdos.py
+4. $python2 AirCrackDdos.py
  
-# sudah di install??
-# lalu ketikkan:
-# $python2 AirCrackDdos.py
-# $python2 AirCrackDdos.py (http.target.xxx)
+# Usage
+Cari web (http) not www
+ 
+-. sudah di install??
+-. lalu ketikkan:
+-. $python2 AirCrackDdos.py
+-. $python2 AirCrackDdos.py (http.target.xxx)
  
 # contoh:
 # $python2 AirCrackDdos.py http://target.co.in/
