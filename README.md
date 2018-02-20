@@ -1,6 +1,6 @@
 # DDoS Attack
 
-cara install
+install
 1. $git clone https://github.com/R00TD4nZ/AirCrackDdos
 2  $cd AirCrackDdos
 3. $chmod +x AirCrackDdos.py
@@ -8,14 +8,8 @@ cara install
  
 # Usage
 Cari web (http) not www
- 
--. sudah di install??
--. lalu ketikkan:
--. $python2 AirCrackDdos.py
--. $python2 AirCrackDdos.py (http.target.xxx)
- 
-# contoh:
-# $python2 AirCrackDdos.py http://target.co.in/
+1. $python2 AirCrackDdos.py
+2. $python2 AirCrackDdos.py (http.target.xxx)
 
 # apabila-kurang-jelas-bisa-liat-video-ini!!!
 
