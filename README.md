@@ -9,10 +9,9 @@ install
 # Usage
 Cari web (http) not www
 1. $python2 AirCrackDdos.py
-2. $python2 AirCrackDdos.py (http.target.xxx)
-
-# apabila-kurang-jelas-bisa-liat-video-ini!!!
-
+2. $python2 AirCrackDdos.py (http.target.co.li)
+ 
+1. Tonton ini !!!
 https://youtu.be/uAtVgqKgaY0
 
 # Note
