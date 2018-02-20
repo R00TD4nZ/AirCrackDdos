@@ -11,7 +11,7 @@ Cari web (http) not www
 1. $python2 AirCrackDdos.py
 2. $python2 AirCrackDdos.py (http.target.co.li)
  
-1. Tonton ini !!![`Watch it`](http://www.youtube.com/watch?v=uAtVgqKgaY0
+3. Tonton ini !!! https://youtu.be/uAtVgqKgaY0
 # Note
 Tools ini hanya sebagai pembelajaran untuk serangan DOS & DDOS
 ddos hanyalah sebagian kecil dan sangat kecil dari dunia hacking
