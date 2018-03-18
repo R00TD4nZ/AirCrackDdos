@@ -1,5 +1,5 @@
-# r00t#d4nZ - HTTP Flood
-#
+# r00t#d4nZ - @powered HTTP Flood - Http doser.py
+# saya mengubah menjadi lebih bagus lagi
 # tipe : serangan DoS
 # this tool is a DoS tool that is meant to put heavy load on HTTP servers in order to bring them
 #
