@@ -9,5 +9,5 @@ $chmod +x AirCrackDdos.py
 $python2 AirCrackDdos.py
 $python2 AirCrackDdos.py http://target.com
 ```
-- Note
-Script ini Dari Httpflood dan Slowloris saya hanya Menambah Boot ddos agar lebih terasa dan cepat down
+- Autorized by r00t#d4nZ
+- Script ini Dari Httpflood dan Slowloris saya hanya Menambah Boot ddos agar lebih terasa dan cepat down
